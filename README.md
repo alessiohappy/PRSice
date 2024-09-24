@@ -1,0 +1,2 @@
+# PRSice
+PRSice tutorial
